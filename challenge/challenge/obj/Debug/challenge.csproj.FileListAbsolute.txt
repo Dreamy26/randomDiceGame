@@ -1,0 +1,6 @@
+/Users/dreamy/Projects/personalWork/randomDiceGame/challenge/challenge/bin/Debug/challenge.exe
+/Users/dreamy/Projects/personalWork/randomDiceGame/challenge/challenge/bin/Debug/challenge.pdb
+/Users/dreamy/Projects/personalWork/randomDiceGame/challenge/challenge/obj/Debug/challenge.csprojAssemblyReference.cache
+/Users/dreamy/Projects/personalWork/randomDiceGame/challenge/challenge/obj/Debug/challenge.csproj.CoreCompileInputs.cache
+/Users/dreamy/Projects/personalWork/randomDiceGame/challenge/challenge/obj/Debug/challenge.exe
+/Users/dreamy/Projects/personalWork/randomDiceGame/challenge/challenge/obj/Debug/challenge.pdb

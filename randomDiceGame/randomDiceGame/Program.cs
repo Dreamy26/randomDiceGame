@@ -13,6 +13,9 @@ namespace randomDiceGame
             int roll2 = dice.Next(1, 7);
             int roll3 = dice.Next(1, 7);
 
+            // you can also hard cold the roll using:
+            // roll1 = 6;
+
             int total = roll1 + roll2 + roll3;
 
             // sum up three dice rools and save the value to the TOTAL varible
