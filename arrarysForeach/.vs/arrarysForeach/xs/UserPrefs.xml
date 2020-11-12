@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{38990AAE-5D41-43D1-AA73-AAE571B46678}|Default">
-  <MonoDevelop.Ide.ItemProperties.challenge PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="challenge/Program.cs">
+﻿<Properties StartupConfiguration="{13573FB5-30B2-4F81-89E0-7C045D094F64}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="arrarysForeach/Program.cs">
     <Files>
-      <File FileName="challenge/Program.cs" Line="9" Column="8" />
+      <File FileName="arrarysForeach/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="challenge" expanded="True">
-            <Node name="challenge" expanded="True">
+          <Node name="arrarysForeach" expanded="True">
+            <Node name="arrarysForeach" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,6 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.arrarysForeach FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
