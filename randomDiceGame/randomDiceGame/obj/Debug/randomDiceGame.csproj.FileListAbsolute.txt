@@ -1,0 +1,6 @@
+/Users/dreamy/Projects/personalWork/randomDiceGame/randomDiceGame/randomDiceGame/bin/Debug/randomDiceGame.exe
+/Users/dreamy/Projects/personalWork/randomDiceGame/randomDiceGame/randomDiceGame/bin/Debug/randomDiceGame.pdb
+/Users/dreamy/Projects/personalWork/randomDiceGame/randomDiceGame/randomDiceGame/obj/Debug/randomDiceGame.csprojAssemblyReference.cache
+/Users/dreamy/Projects/personalWork/randomDiceGame/randomDiceGame/randomDiceGame/obj/Debug/randomDiceGame.csproj.CoreCompileInputs.cache
+/Users/dreamy/Projects/personalWork/randomDiceGame/randomDiceGame/randomDiceGame/obj/Debug/randomDiceGame.exe
+/Users/dreamy/Projects/personalWork/randomDiceGame/randomDiceGame/randomDiceGame/obj/Debug/randomDiceGame.pdb

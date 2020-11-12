@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4C3A6AC5-290F-4ABB-A745-C89A298796F0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="randomDiceGame/Program.cs">
+    <Files>
+      <File FileName="randomDiceGame/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="randomDiceGame" expanded="True">
+            <Node name="randomDiceGame" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.randomDiceGame FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
